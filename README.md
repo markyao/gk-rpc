@@ -20,7 +20,7 @@
 
 
 ## 2. 设计类图
-![classDraw](doc/images/classdraw.jpg)
+![classDraw](doc/images/classDraw.jpg)
 
 
 

@@ -8,5 +8,5 @@ import java.io.OutputStream;
  */
 public interface RequestHandler {
 
-    void onRequest(InputStream recive, OutputStream toResp);
+    void onRequest(InputStream receive, OutputStream toResp);
 }

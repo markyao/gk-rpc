@@ -16,6 +16,7 @@
         <module>gk-rpc-transport</module>
         <module>gk-rpc-server</module>
         <module>gk-rpc-client</module>
+        <module>gk-rpc-example</module>
     </modules>
     <!--统一定义版本号-->
     <properties>

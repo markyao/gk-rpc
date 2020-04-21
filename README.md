@@ -10,7 +10,7 @@
 
 3. gk-rpc-common 通用工具
 
-4. gk-rpc-proto 协议
+4. gk-rpc-proto 通信协议
 
 5. gk-rpc-server 服务端
 
